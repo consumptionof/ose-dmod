@@ -4,7 +4,7 @@ This is an unofficial module for the Old-School Essentials system for Foundry VT
 
 ## Requirements
 
-This module must be used in a world using VTT Red's `ose` system. For more information, (see their GitHub page.)[https://github.com/vttred/ose]
+This module must be used in a world using VTT Red's `ose` system. For more information, [see their GitHub page.](https://github.com/vttred/ose)
 
 ## Installation
 
