@@ -162,6 +162,6 @@ dist
 junit.xml
 
 # Other
-systems
-.vscode
+systems/
+.vscode/
 notes.txt
