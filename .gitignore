@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Logs
 logs
 *.log
@@ -129,7 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-=======
 # SPDX-FileCopyrightText: 2022 Johannes Loher
 #
 # SPDX-License-Identifier: MIT
@@ -162,4 +160,8 @@ dist
 
 # Junit results
 junit.xml
->>>>>>> Stashed changes
+
+# Other
+systems
+.vscode
+notes.txt

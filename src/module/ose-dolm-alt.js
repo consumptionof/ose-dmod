@@ -20,7 +20,7 @@ import { preloadTemplates } from './preloadTemplates.js';
 
 // Initialize module
 Hooks.once('init', async () => {
-  console.log('ose-dolm-alt | Initializing ose-dolm-alt');
+  console.log('ose-dmod | Initializing ose-dmod');
 
   // Assign custom classes and constants here
 

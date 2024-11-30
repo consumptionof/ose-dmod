@@ -20,7 +20,7 @@ import rollupConfig from './rollup.config.mjs'
 /*  CONFIGURATION   */
 /********************/
 
-const packageId = 'ose-dolm-alt';
+const packageId = 'ose-dmod';
 const sourceDirectory = './src';
 const distDirectory = './dist';
 const stylesDirectory = `${sourceDirectory}/styles`;

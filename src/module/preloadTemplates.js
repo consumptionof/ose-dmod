@@ -4,7 +4,7 @@
 
 export async function preloadTemplates() {
   const templatePaths = [
-    // Add paths to "modules/ose-dolm-alt/templates"
+    // Add paths to "modules/ose-dmod/templates"
   ];
 
   return loadTemplates(templatePaths);
