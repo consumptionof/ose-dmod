@@ -27,7 +27,7 @@
     "lint": "eslint --ext .js,.cjs,.mjs .",
     "lint:fix": "eslint --ext .js,.cjs,.mjs --fix .",
     "format": "prettier --write \"./**/*.(js|cjs|mjs|json|yml|css)\"",
-    "postinstall": "husky install",
+    "postinstall": "husky init",
     "prepare": "husky"
   },
   "devDependencies": {
