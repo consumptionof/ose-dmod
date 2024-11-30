@@ -1,0 +1,27 @@
+{
+    "dolm.Setting.Enabled": "Enable Module",
+    "dolm.Setting.EnabledHint": "Enable the Dolmenwood module.",
+
+    "dolm.exploration.l.long": "Listen",
+    "dolm.exploration.l.short": "Listen",
+    "dolm.exploration.l.abrev": "L",
+    "dolm.exploration.s.long": "Search",
+    "dolm.exploration.s.short": "Search",
+    "dolm.exploration.s.abrev": "S",
+    "dolm.exploration.u.long": "Survival",
+    "dolm.exploration.u.short": "Survival",
+    "dolm.exploration.u.abrev": "U",
+
+    "dolm.saves.doom.short": "D",
+    "dolm.saves.doom.long": "Doom",
+    "dolm.saves.ray.short": "R",
+    "dolm.saves.ray.long": "Ray",
+    "dolm.saves.hold.short": "H",
+    "dolm.saves.hold.long": "Hold",
+    "dolm.saves.blast.short": "B",
+    "dolm.saves.blast.long": "Blast",
+    "dolm.saves.spell.short": "S",
+    "dolm.saves.spell.long": "Spell",
+    "dolm.saves.magic.long": "Magic Resistance",
+    "dolm.saves.magic.short": "vs Magic"
+}

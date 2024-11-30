@@ -1,0 +1,2 @@
+Use game.actors.get(<tab>) to get info about a character.
+actor.system.scores.(cha, con, dex, int, str, wis).(mod, value)

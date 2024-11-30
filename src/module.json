@@ -1,0 +1,45 @@
+{
+  "id": "ose-dmod",
+  "title": "Old-School Essentials DMOD",
+  "description": "An unofficial Foundry VTT module to adapt the OSE system for the Dolmenwood rules.",
+  "authors": [
+    {
+      "name": "John Jacon",
+      "email": "consumptionof@gmail.com"
+    }
+  ],
+  "url": "This is auto replaced",
+  "license": "GPLv3",
+  "readme": "<optionally the URL to your readme>",
+  "bugs": "<optionally the URL to your issue list>",
+  "changelog": "<optionally the URL to your changelog>",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": [],
+  "esmodules": [
+    "module/ose-dmod.js"
+  ],
+  "styles": [
+    "styles/ose-dmod.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": [],
+    "conflicts": []
+  },
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "library": false
+}

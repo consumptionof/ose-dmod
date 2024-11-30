@@ -1,0 +1,57 @@
+{
+  "id": "ose-dmod",
+  "title": "Old-School Essentials DMOD",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "system": "ose",
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "manifest": "https://github.com/vttred/ose/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1.8.0",
+          "verified": "2.0.2"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "ose-advancedfantasytome",
+        "type": "module",
+        "compatibility": {
+          "minimum": "0.1.0",
+          "verified": "1.0.99",
+          "maximum": "1.99.99"
+        }
+      },
+      {
+        "id": "classicfantasycompendium",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0",
+          "verified": "1.0.99",
+          "maximum": "1.99.99"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "dist/ose-dmod.js"
+  ],
+  "styles": [
+    "dist/ose-dmod.css"
+  ],
+  "authors": [
+    {
+      "name": "John",
+      "email": "consumptionof@gmail.com",
+      "url": "https://github.com/consumptionof",
+      "flags": {}
+    }
+  ]
+}

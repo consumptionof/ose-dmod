@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "target": "ES6",                     // Foundry supports ES6
+      "module": "ESNext",                  // Use ESNext for module imports
+      "moduleResolution": "node",         // Use Node.js resolution
+      "baseUrl": "./src",                 // Base directory for resolving imports
+      "preserveSymlinks": true,
+      "paths": {
+        //"foundry/*": ["../foundry-types/*"] // Map Foundry VTT types to a specific directory
+        "systems/*": ["../systems/*"],
+        "oseActors/*": ["../systems/ose/src/module/actor/*"],
+        "foundry/*": ["node_modules/@league-of-foundry-developers/foundry-vtt-types/*"]
+      },
+      "outDir": "./dist",                 // Output directory for compiled files
+      "allowJs": true,                    // Allow JavaScript files (for compatibility)
+      "esModuleInterop": true,            // Enables default imports for CommonJS modules
+      "strict": true                      // Enable strict type-checking
+    },
+    "include": ["src/**/*.ts", "src/module/exploration_roll.js", "src/module/config.ts"],           // Include TypeScript source files
+    "exclude": ["node_modules", "dist"]  // Exclude unnecessary files
+  }
+  
